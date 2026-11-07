@@ -1,4 +1,4 @@
-<h1 align="center">heartsick</h1>
+<h1 align="center">cemeterypaws</h1>
 
 <p align="center">
   <samp>恋の病に薬なし</samp><br>
@@ -7,8 +7,6 @@
 
 <p align="center">
   <a href="https://heartsick.lol">heartsick.lol</a> ·
-  <a href="https://x.com/cemetxrypaws">x</a> ·
-  <a href="https://instagram.com/cemetxrypaws">instagram</a> ·
   <a href="https://discord.com/users/432369425065312270">discord</a>
 </p>
 
@@ -16,7 +14,7 @@
 
 ### about
 
-i'm kenzie, also known as paw / cemeterypaws. developer of some sort, roblox nerd.
+i'm paw / cemeterypaws.
 
 i've been building for the web since 2021, picked up C# in early 2024, and spend a fair
 bit of time managing linux environments across desktop and servers. i also come from a
@@ -52,5 +50,3 @@ vps behind nginx and systemd. no platform-as-a-service, just a box i keep alive.
 
 i'm not taking on new projects right now, but i help out here and there and i'm always up
 for a good conversation. if something's genuinely interesting, say hi.
-
-`hi+heartsick` **@** `heartsick.lol`
