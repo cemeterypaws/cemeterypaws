@@ -1,8 +1,8 @@
-# cemeterypaws
+<h1 align="center">cemeterypaws</h1>
 
 <p align="center">
-  <samp>恋の病に薬なし</samp><br>
-  <sub><i>there is no medicine for lovesickness.</i></sub>
+  <samp>死人に口なし</samp><br>
+  <sub><i>dead men tell no tales.</i></sub>
 </p>
 
 <p align="center">
