@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://heartsick.lol">heartsick.lol</a> ·
+  <a href="https://heartsick.lol/socials">socials</a> ·
   <a href="https://discord.com/users/432369425065312270">discord</a>
 </p>
 
