@@ -1,4 +1,4 @@
-<h1 align="center">cemeterypaws</h1>
+# cemeterypaws
 
 <p align="center">
   <samp>恋の病に薬なし</samp><br>
@@ -12,41 +12,24 @@
 
 ---
 
-### about
+paw. 22, developer of some sort, Roblox nerd.
 
-i'm paw / cemeterypaws.
+i've been into development since 2021, starting with basic HTML and CSS before gradually getting into JavaScript, TypeScript and more. i picked up C# in early 2024 and have since spent time working with C++, Rust and a few other languages.
 
-i've been building for the web since 2021, picked up C# in early 2024, and spend a fair
-bit of time managing linux environments across desktop and servers. i also come from a
-reverse engineering and game modding background: roblox (internal and external), vrchat,
-and gta 5.
+a lot of my interests revolve around understanding how software works beyond what's exposed to the user. i've spent quite a bit of time exploring Roblox internals, VRChat and GTA 5, experimenting with game modifications, reverse engineering and learning how different systems work under the hood.
 
-i build sites, break software, and keep the servers alive.
+i also enjoy working with infrastructure and self-hosting. most of what i build ends up running on my own servers, so managing Linux systems, configuring services and maintaining my own environments have become a big part of what i do.
 
-### what i do
+### what i use
 
-**web development** — building for the web front to back, from hand-written HTML and CSS
-to typed TypeScript apps, then shipping them and keeping them live.
+JavaScript, TypeScript, HTML, CSS, C++, C#, Rust, Linux, nginx, SQLite and Git.
 
-**systems & linux** — managing linux environments day to day. at home in the terminal,
-configuring services and keeping them running.
+### heartsick.lol
 
-**low-level & reverse engineering** — a background in lower-level languages and reverse
-engineering. i like knowing how software works underneath, not just how to call it.
+my personal portfolio, featuring projects i've worked on, blog posts and a few useful tools. it also includes a media uploader and URL shortener for hosting and sharing files and links.
 
-### stack
+a lot of my work is private, unfinished, or built for personal use, so there's probably more going on than what's publicly available here.
 
-`JavaScript` `TypeScript` `HTML / CSS` `C#` `C++` `Rust`
+---
 
-`Linux` `Git` `Next.js` `nginx` `systemd` `SQLite`
-
-### things i run
-
-[heartsick.lol](https://heartsick.lol) is mine end to end: a next.js app with a blog,
-projects, a url shortener, pastes, and sharex-compatible uploads, self-hosted on my own
-vps behind nginx and systemd. no platform-as-a-service, just a box i keep alive.
-
-### contact
-
-i'm not taking on new projects right now, but i help out here and there and i'm always up
-for a good conversation. if something's genuinely interesting, say hi.
+not actively looking for new projects, but i still help out where i can. always happy to chat about development, games or interesting projects.
